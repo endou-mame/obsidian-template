@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.ext.containsAny("md", "canvas")
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder != "03_Template"
+        - file.folder != "01_Daily"
+    order:
+      - tags
+      - file.name
+      - aliases
+      - file.ctime
+      - file.mtime
+    sort: []
+    columnSize:
+      file.name: 186
+      note.aliases: 546
+      file.ctime: 191
+      file.mtime: 183

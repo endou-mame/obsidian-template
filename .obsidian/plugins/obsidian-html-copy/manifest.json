@@ -1,0 +1,13 @@
+{
+  "id": "obsidian-html-copy",
+  "name": "HTML Copy",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Copy markdown content as HTML format to clipboard",
+  "author": "endou-mame",
+  "authorUrl": "https://github.com/endou-mame",
+  "fundingUrl": {
+    "Buy Me a Coffee": "https://buymeacoffee.com/endou-mame"
+  },
+  "isDesktopOnly": true
+}

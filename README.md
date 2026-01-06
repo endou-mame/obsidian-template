@@ -1,2 +1,2 @@
-# dot_obsidian
-.obsidian
+# obsidian-template
+obsidian-template

@@ -1,0 +1,131 @@
+{
+  "version": "3.13.1",
+  "templates": {
+    "common": {
+      "main": "#heading",
+      "fallback": ""
+    }
+  },
+  "rules": {
+    "paths": {
+      "mode": "black",
+      "values": [
+        "01_Daily",
+        "02_Assets",
+        "03_Template",
+        "Clippings"
+      ]
+    },
+    "delimiter": {
+      "enabled": false,
+      "value": ""
+    }
+  },
+  "debug": false,
+  "boot": {
+    "delay": 1000,
+    "background": true
+  },
+  "features": {
+    "alias": {
+      "enabled": false,
+      "strategy": "ensure",
+      "validator": "fr",
+      "templates": {
+        "main": "",
+        "fallback": ""
+      }
+    },
+    "explorer": {
+      "enabled": true,
+      "sort": false,
+      "templates": {
+        "main": "",
+        "fallback": ""
+      }
+    },
+    "tab": {
+      "enabled": true,
+      "templates": {
+        "main": "",
+        "fallback": ""
+      }
+    },
+    "header": {
+      "enabled": true,
+      "templates": {
+        "main": "",
+        "fallback": ""
+      }
+    },
+    "graph": {
+      "enabled": true,
+      "templates": {
+        "main": "",
+        "fallback": ""
+      }
+    },
+    "bookmarks": {
+      "enabled": true,
+      "templates": {
+        "main": "",
+        "fallback": ""
+      }
+    },
+    "search": {
+      "enabled": true,
+      "templates": {
+        "main": "",
+        "fallback": ""
+      }
+    },
+    "suggest": {
+      "enabled": false,
+      "templates": {
+        "main": "",
+        "fallback": ""
+      }
+    },
+    "inlineTitle": {
+      "enabled": true,
+      "templates": {
+        "main": "",
+        "fallback": ""
+      }
+    },
+    "canvas": {
+      "enabled": true,
+      "templates": {
+        "main": "",
+        "fallback": ""
+      }
+    },
+    "backlink": {
+      "enabled": false,
+      "templates": {
+        "main": "",
+        "fallback": ""
+      }
+    },
+    "windowFrame": {
+      "enabled": false,
+      "templates": {
+        "main": "",
+        "fallback": ""
+      }
+    },
+    "noteLink": {
+      "enabled": false,
+      "strategy": "onlyEmpty",
+      "approval": true,
+      "templates": {
+        "main": "",
+        "fallback": ""
+      }
+    }
+  },
+  "processor": {
+    "args": [],
+    "type": null
+  }
+}

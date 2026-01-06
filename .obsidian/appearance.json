@@ -1,0 +1,19 @@
+{
+  "baseFontSizeAction": false,
+  "baseFontSize": 16,
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "",
+  "interfaceFontFamily": "Moralerspace Argon",
+  "textFontFamily": "Moralerspace Argon",
+  "monospaceFontFamily": "Moralerspace Argon",
+  "enabledCssSnippets": [
+    "DataViewCard",
+    "Dataview",
+    "heading-underline",
+    "image-zoom-click-hold-to-expand-images"
+  ],
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false,
+  "theme": "system"
+}

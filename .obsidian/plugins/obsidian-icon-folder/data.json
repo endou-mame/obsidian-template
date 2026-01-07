@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookTemplate",
       "🧠",
       "LiFilePlus",
       "📂",
-      "🏠",
-      "📝"
+      "🏠"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,7 +36,8 @@
   },
   "01_Daily": "📅",
   "02_Assets": "🖼",
-  "03_Template": "📝",
+  "03_Template": "LiBookTemplate",
   "Clippings": "📎",
-  "00_Explorer.base": "📂"
+  "00_Explorer.base": "📂",
+  "04_Notes": "📝"
 }
